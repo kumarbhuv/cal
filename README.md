@@ -1,8 +1,8 @@
 ## Fine Grained Image Classification: A study on effect of causality on prediction
-
-
 Implementation of CAL and Testing from the repo raoyongming/CAL
 The credit for original implementation goes to Yongming Rao.
+
+Attention mechanism has demonstrated great potential in fine grained visual recognition tasks. In this work, we follow Counterfactual Attention Learning (CAL) method for fine grained image classification tasks, which leverages counterfactual causality to learn attention quality and supervises the learning process effectively. The study analyzes the impact of the learned visual attention on network prediction through counterfactual intervention and maximizes this effect to improve the attention's effectiveness for fine grained image recognition. This method measures the attention quality as well as provides a powerful supervisory signal to guide the learning process.
 
 ## Datasets
 The instructions to download and install FGVC datasets is given below:-
